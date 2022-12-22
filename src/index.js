@@ -1,6 +1,3 @@
-import {
-  getMinuteFromDaysHours,
-  getDaysHoursFromMinute,
-} from "./lib/minuteToDayHours";
+import { minuteToDayHours } from "./lib/minuteToDayHours";
 
-export { getMinuteFromDaysHours, getDaysHoursFromMinute };
+export { minuteToDayHours };
